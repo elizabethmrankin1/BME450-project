@@ -7,7 +7,7 @@ Exercise Form Correction AI Helper
 
 ## Team members
 
-Elizabeth Rankin (elizabethmrankin1), NameB (kyliegraf)
+Elizabeth Rankin (elizabethmrankin1), Kyie Grad (Kyliegraf)
 
 ## Project decription
 
